@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg11507" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="26.061" width="175.4" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata11512">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-287.29825,-519.3318)">
+  <path id="path5191" d="m1080.9,178.65c0,1.8132-1.4699,3.283-3.283,3.283s-3.283-1.4698-3.283-3.283,1.4699-3.283,3.283-3.283,3.283,1.4698,3.283,3.283z" fill-rule="evenodd" transform="matrix(1.3076923,0,0,1.3076923,-1103.7341,290.00702)" fill="#000"/>
+  <path id="path5193" d="m1080.9,178.65c0,1.8132-1.4699,3.283-3.283,3.283s-3.283-1.4698-3.283-3.283,1.4699-3.283,3.283-3.283,3.283,1.4698,3.283,3.283z" fill-rule="evenodd" transform="matrix(0.4230769,0,0,0.4230769,-151.24771,448.42148)" fill="#FFF"/>
+  <path id="path5195" d="m1080.9,178.65c0,1.8132-1.4699,3.283-3.283,3.283s-3.283-1.4698-3.283-3.283,1.4699-3.283,3.283-3.283,3.283,1.4698,3.283,3.283z" fill-rule="evenodd" transform="matrix(1.3076923,0,0,1.3076923,-1034.5387,290.00702)" fill="#000"/>
+  <path id="path5197" d="m1080.9,178.65c0,1.8132-1.4699,3.283-3.283,3.283s-3.283-1.4698-3.283-3.283,1.4699-3.283,3.283-3.283,3.283,1.4698,3.283,3.283z" fill-rule="evenodd" transform="matrix(0.4230769,0,0,0.4230769,-82.052261,448.42148)" fill="#FFF"/>
+  <path id="path5199" d="m1080.9,178.65c0,1.8132-1.4699,3.283-3.283,3.283s-3.283-1.4698-3.283-3.283,1.4699-3.283,3.283-3.283,3.283,1.4698,3.283,3.283z" fill-rule="evenodd" transform="matrix(1.3076923,0,0,1.3076923,-965.34324,290.00702)" fill="#000"/>
+  <path id="path5201" d="m1080.9,178.65c0,1.8132-1.4699,3.283-3.283,3.283s-3.283-1.4698-3.283-3.283,1.4699-3.283,3.283-3.283,3.283,1.4698,3.283,3.283z" fill-rule="evenodd" transform="matrix(0.4230769,0,0,0.4230769,-12.856811,448.42148)" fill="#FFF"/>
+  <text id="text5203" style="writing-mode:lr-tb;text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="scale(1.0017033,0.9982996)" font-style="normal" font-stretch="normal" font-size="9px" font-variant="normal" y="544.53296" x="286.12418" font-family="Arial" line-height="100%" fill="#000000"><tspan id="tspan5205" x="286.12418" y="544.53296">Num Lock</tspan></text>
+  <text id="text5207" style="writing-mode:lr-tb;text-anchor:start;text-align:start;" font-weight="normal" transform="scale(1.0017033,0.9982996)" font-style="normal" line-height="100%" font-stretch="normal" xml:space="preserve" font-size="9px" font-variant="normal" y="544.53296" x="354.00833" font-family="Arial" fill="#000000"><tspan id="tspan5209" y="544.53296" x="354.00833">Caps Lock</tspan></text>
+  <text id="text5211" style="writing-mode:lr-tb;text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" transform="scale(1.0017033,0.9982996)" font-style="normal" font-stretch="normal" font-size="9px" font-variant="normal" y="544.53296" x="417.89932" font-family="Arial" line-height="100%" fill="#000000"><tspan id="tspan5213" x="417.89932" y="544.53296">Scroll Lock</tspan></text>
+ </g>
+</svg>

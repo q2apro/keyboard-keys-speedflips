@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg9647" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="53.531" width="53" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs9649">
+  <linearGradient id="linearGradient7810" x1="275.73" gradientUnits="userSpaceOnUse" y1="571.91" gradientTransform="matrix(0.2087115,0,0,0.2080024,334.28256,88.162599)" x2="352.27" y2="571.91">
+   <stop id="stop3250" stop-color="#d8d8d8" offset="0"/>
+   <stop id="stop3252" stop-color="#b1b1b1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7814" x1="332.92" gradientUnits="userSpaceOnUse" y1="520.33" gradientTransform="matrix(0.2087115,0,0,0.2080024,307.55257,120.92404)" x2="355.82" y2="535.99">
+   <stop id="stop3264" stop-color="#656565" offset="0"/>
+   <stop id="stop3266" stop-color="#939393" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7817" x1="338.63" gradientUnits="userSpaceOnUse" y1="522.48" gradientTransform="matrix(-0.2087115,0,0,0.2080024,492.43776,120.92404)" x2="358.68" y2="538.13">
+   <stop id="stop3278" stop-color="#d6d6d6" offset="0"/>
+   <stop id="stop3280" stop-color="#939393" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient7821" x1="529.11" gradientUnits="userSpaceOnUse" y1="333.99" gradientTransform="matrix(0.2087115,0,0,0.2080024,307.55257,120.92404)" x2="526.08" y2="321.37">
+   <stop id="stop3298" stop-color="#d6d6d6" offset="0"/>
+   <stop id="stop3300" stop-color="#656565" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata9652">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-373.5,-185.59375)">
+  <rect id="rect5572" fill-rule="evenodd" rx="4.7705" ry="4.0115" height="52.044" width="51.494" y="186.34" x="374.25" fill="#656565"/>
+  <rect id="rect5574" fill-rule="evenodd" height="34.564" width="11.279" y="190.2" x="414.44" fill="#d6d6d6"/>
+  <path id="path5576" fill-rule="evenodd" fill="url(#linearGradient7821)" d="m416.6,193.22,9.0939-2.9715c-0.36125-2.8568-2.3291-3.8457-5.0687-3.9372-3.6454,0.10572-7.2028,0.26014-9.0939,1.3372l5.0687,5.5715z"/>
+  <rect id="rect5578" fill-rule="evenodd" rx="0" ry="0" height="12.975" width="33.469" y="225.4" x="383.35" fill="#929292"/>
+  <path id="path5580" fill-rule="evenodd" fill="url(#linearGradient7817)" d="m414.9,222.35,10.805,1.1556,0.0395,10.506c-0.006,2.7094-2.1668,4.2661-4.4011,4.3599l-4.8096-0.0525-5.3235-12.344,3.6895-3.6245z"/>
+  <path id="path5582" fill-rule="evenodd" fill="url(#linearGradient7814)" d="m381.76,222.25-7.4845,1.2607-0.0395,10.506c0.006,2.7094,2.1668,4.2661,4.4011,4.3599l4.8096-0.0525,1.6866-12.292-3.3733-3.782z"/>
+  <rect id="rect5584" fill-rule="evenodd" rx="4.7705" ry="4.7543" height="40.245" width="36.535" y="187" x="381.02" fill="#f1f1f1"/>
+  <rect id="rect5586" fill-rule="evenodd" rx="4.7705" ry="4.7543" height="40.245" width="35.481" y="187" x="381.02" fill="url(#linearGradient7810)"/>
+  <text id="text8015" style="writing-mode:lr-tb;text-anchor:start;text-align:start;" font-family="Arial" xml:space="preserve" transform="scale(1.0017033,0.9982996)" line-height="100%" y="201.7103" font-stretch="normal" font-size="13px" font-variant="normal" x="385.11469" font-weight="normal" font-style="normal" fill="#000000"><tspan id="tspan8017" y="201.7103" x="385.11469">~</tspan></text>
+  <text id="text5588" style="writing-mode:lr-tb;text-anchor:start;text-align:start;" font-family="Arial" xml:space="preserve" transform="scale(1.0017033,0.9982996)" font-stretch="normal" line-height="100%" font-size="13px" font-variant="normal" y="223.17537" x="385.11469" font-weight="normal" font-style="normal" fill="#000000"><tspan id="tspan5594" y="223.17537" x="385.11469">`</tspan></text>
+ </g>
+</svg>
