@@ -1,6 +1,6 @@
 ## Free Keyboard Graphics and Key Icons for Screencasts
 
-Created by [Kai Noack](http://stackoverflow.com/users/1066234/kai-noack)
+Created by [Kai Noack](https://stackoverflow.com/users/1066234/kai-noack)
 
 Version  	1.0 - Date 2014-07-07
 
@@ -10,11 +10,11 @@ Do you need keys from a keyboard as SVG and PNG graphics? Here you go, I created
 
 ### Primary source
 
-Original keyboard SVG from http://commons.wikimedia.org/wiki/
+Original keyboard SVG from https://commons.wikimedia.org/wiki/
 
 File: Computer\_keyboard\_US.svg
 
-Derivative work by http://www.speedflips.com
+This is derivative work. 
 
 English:	Computer keyboard with US layout. Some details inherited from the prototype may be missing or inadequate on real keyboards, so fix it.
 
