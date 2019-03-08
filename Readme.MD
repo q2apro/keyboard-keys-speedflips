@@ -26,7 +26,7 @@ Author:  	Computer\_keyboard\_Danish\_layout.svg: Mysid
 derivative work: Incnis Mrsi (talk)
 
 
-###License: Public Domain - Free for commercial and private use  
+### License: Public Domain - Free for commercial and private use  
 
 I, the copyright holder of this work, hereby publish it under the following license:
 
