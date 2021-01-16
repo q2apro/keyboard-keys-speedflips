@@ -1,7 +1,4 @@
 ## Free Keyboard Graphics and Key Icons for Screencasts
-
-Created by [Kai Noack](https://stackoverflow.com/users/1066234/kai-noack)
-
 Version  	1.0 - Date 2014-07-07
 
 Do you need keys from a keyboard as SVG and PNG graphics? Here you go, I created a full set of keys (blank and bordered) in 200 dpi, 300 dpi and 400 dpi resolutions. In other words, you get many different sizes that will suit your needs. You also find a complete keyboard as SVG and PNG in different versions included. And the best thing: Everything is for free, public domain :)
