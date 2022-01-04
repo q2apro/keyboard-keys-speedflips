@@ -1,7 +1,11 @@
 ## Free Keyboard Graphics and Key Icons for Screencasts
-Version  	1.0 - Date 2014-07-07
+Version  	1.1 - Date 2022-01-04
 
-Do you need keys from a keyboard as SVG and PNG graphics? Here you go, I created a full set of keys (blank and bordered) in 200 dpi, 300 dpi and 400 dpi resolutions. In other words, you get many different sizes that will suit your needs. You also find a complete keyboard as SVG and PNG in different versions included. And the best thing: Everything is for free, public domain :)
+Here you find graphics of keys from a keyboard as SVG and PNG graphics.
+
+Full set of keys (blank and bordered) in 200 dpi, 300 dpi and 400 dpi resolutions. Those different sizes should suit your needs.
+
+You also find a complete keyboard as SVG and PNG in different versions included.
 
 ![Free Keyboard Graphics and Key Icons](keyboard-keys-speedflips-v1.0.png)
 
@@ -13,9 +17,9 @@ File: Computer\_keyboard\_US.svg
 
 This is derivative work. 
 
-English:	Computer keyboard with US layout. Some details inherited from the prototype may be missing or inadequate on real keyboards, so fix it.
+English:	Computer keyboard with US layout. Some details inherited from the prototype may be missing or inadequate on real keyboards, feel free to fix it.
 
-Date:		2010-08-23 13:55 (UTC)
+Date:		2010-08-23
 
 Source: 	Computer\_keyboard\_Danish\_layout.svg
 
@@ -31,6 +35,6 @@ Public domain
 
 This applies worldwide.
 
-In some countries this may not be legally possible; if so: I grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
+In some countries this may not be legally possible; if so: I/we grant anyone the right to use this work for any purpose, without any conditions, unless such conditions are required by law.
 
-Free for commercial and private use! No credit or backlink required.
+Free for commercial use and private use.
